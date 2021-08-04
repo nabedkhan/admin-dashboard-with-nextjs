@@ -1,6 +1,8 @@
 # Admin Dashboard Design
 
-> This is a Simple Admin Dashboard Design the NextJS Framework
+> This is a Simple Admin Dashboard Design built with the NextJS Framework
+
+### View Live Demo: https://admin-dashboard-with-nextjs.vercel.app/
 
 ### Install Dependencies
 
